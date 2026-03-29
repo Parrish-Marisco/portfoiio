@@ -1,4 +1,4 @@
-![Intel Fusion Banner] (ChatGPT Image Mar 28, 2026, 11_54_54 PM.png)
+[Intel Fusion Banner](images/ChatGPT Image Mar 28, 2026, 11_54_54 PM.png)
 
 # Parrish J. Marisco
 
