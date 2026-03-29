@@ -167,7 +167,7 @@ I build systems that:
 ---
 
 ## 🔗 Connect
-- GitHub: https://github.com/yourusername  
+- GitHub: (https://github.com/Parrish-Marisco/portfoiio.git)
 - LinkedIn: (https://www.linkedin.com/in/parrish-j-marisco/)
 
 ---
