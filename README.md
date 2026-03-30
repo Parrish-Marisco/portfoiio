@@ -1,5 +1,4 @@
-![(image alt]()
-
+![(image alt](https://media.licdn.com/dms/image/v2/D4E03AQHGQLiSw-mv5g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1679635743554?e=1776297600&v=beta&t=lXVaYS4KCIJNuYUFN8EoccAYmcWhehbrY9Xo7zmwETI)
 # Parrish J. Marisco
 
 **Enterprise Security Engineer | Cloud Architect | Defensive Artifical Intelligence Systems**
