@@ -1,4 +1,4 @@
-![(image alt](s/ChatGPT Image Mar 28, 2026, 11_54_54 PM.png)
+![(image alt]()
 
 # Parrish J. Marisco
 
@@ -60,7 +60,7 @@ I design and build **cloud-native intelligence and security systems** that opera
 - Applied EnCase, FTK, and DC3 forensic tools for digital media exploitation, metadata analysis, and malware reverse engineering supporting counterterrorism missions
 
 ## Projects
-
+![(image alt](https://github.com/Parrish-Marisco/portfoiio/blob/fbb4fa19b5973b7054114649dc0332a4f1d128d0/images/ChatGPT%20Image%20Mar%2028%2C%202026%2C%2011_54_54%20PM.png)
 ### Intel Fusion — Built Hybrid Intelligence Analysis Platform | A production-style intelligence system that fuses HUMINT and OSINT into **graph-based threat analysis**.
 
 #### Core Capabilities
